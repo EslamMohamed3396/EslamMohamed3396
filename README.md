@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **em0109224@gmail.com**
 
-- 📄I’m currently open for: a new job opportunity [https://drive.google.com/file/d/1t1g5Yk5fp6Y753kVEZPyQRMXjMNff8RU/view?usp=sharing](https://drive.google.com/file/d/1t1g5Yk5fp6Y753kVEZPyQRMXjMNff8RU/view?usp=sharing)
+- 📄I’m currently open for a new job opportunity as Senior Android Developer, <a href="https://drive.google.com/file/d/17jJcZ6MlALNGmikYzIapwp-Dly7Jpbgc/view?usp=sharing"> MY CV LINK</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
