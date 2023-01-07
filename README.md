@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Amuse The Kids**
+- 🔭 I’m currently working on **Amuse The Kids TV App**
 
 - 🌱 I’m currently learning **Testing, Web FullStack**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **em0109224@gmail.com**
 
-- 📄I’m currently open for a new job opportunity as Senior Android Developer, <a href="https://drive.google.com/file/d/17jJcZ6MlALNGmikYzIapwp-Dly7Jpbgc/view?usp=sharing"> MY CV LINK</a>
+- 📄I’m currently open for a new job opportunity as Senior Android Developer, <a href="https://drive.google.com/file/d/1ROfiy2iDTIsY-wTlx0urdjf9rDUH4kAk/view?usp=sharing"> MY CV LINK</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
